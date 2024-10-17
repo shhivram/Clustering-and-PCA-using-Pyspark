@@ -1,0 +1,253 @@
+application_id,Applications,Affected_Applications,Impacted_Services,criticality
+0,Hyperion Financial Management (HFM),Hyperion Financial Management (HFM),Enterprise Applications,5
+1,XOCV - University,XOCV - University,Enterprise Applications,4
+2,Hyperion Essbase,Hyperion Essbase,Enterprise Applications,3
+3,SNP-Device Integration,SNP-Device Integration, Network Automation|Enterprise Applications|Network Automation| Enterprise Applications,1
+4,StreamTV IDS, (ComPS) Commercial Provisioning Services|StreamTV IDS,Enterprise Applications,2
+5,Tech360,Tech360,Enterprise Applications,5
+6,SNP-Legacy,SNP-Legacy, Network Automation|Enterprise Applications|Network Automation| Enterprise Applications,2
+7,RetailPOS,RetailPOS,Enterprise Applications,4
+8,SNP-Middleware, SNP-Middleware| SNP-Device Integration|SNP-Middleware|SNP-Device Integration, Network Automation|Enterprise Applications|Network Automation| Enterprise Applications,2
+9,EP-Fintech-FTA-NRSA - core,EP-Fintech-FTA-NRSA - core,Enterprise Applications,1
+10,Apex CLU (Prog Acctg) - Core,Apex CLU (Prog Acctg) - Core,Enterprise Applications,4
+11,Retail360, Retail360|Retail360|RetailPOS,Enterprise Applications,5
+12,(ComPS) Commercial Provisioning Services, basmanxs02m.manassascc.va.bad.comcast.net| basmanxs05m.manassascc.va.bad.comcast.net| baschips03m.area4.il.chicago.comcast.net| basatlxs03m.s3ndigital.ga.atlanta.comcast.net| basmanps04m.manassascc.va.bad.comcast.net| baschiws01m.area4.il.chicago.comcast.net| basmanxs09m.manassascc.va.bad.comcast.net| baschixs07m.area4.il.chicago.comcast.net| baschins01m.area4.il.chicago.comcast.net| (ComPS) Commercial Provisioning Services| basmanps03m.manassascc.va.bad.comcast.net|basbeaxs05m.beaverton.or.bverton.comcast.net| Commercial IMS| baschips01m.area4.il.chicago.comcast.net| basbeaxs04m.beaverton.or.bverton.comcast.net| basmanxs03m.manassascc.va.bad.comcast.net| basatlxs08m.s3ndigital.ga.atlanta.comcast.net| basmanxs10m.manassascc.va.bad.comcast.net|(ComPS) Commercial Provisioning Services| basmanxs08m.manassascc.va.bad.comcast.net, Commercial IMS|Enterprise Applications| Enterprise Applications|Voice,1
+13,ESP Payment Service V4, DAS|xCP - Contract Management Service| ESP Payment Service V4| XCOS - SCMS| Customer Experience Platform|MyAccount-Payments| MSP| Xfinity.com|ESP Payment Service V4| XOE BuyFlow, Customer - My Account|QAM Delivery| Care|Enterprise Applications| Enterprise Applications,2
+14,Splunk - Other Machines,Splunk - Other Machines,Enterprise Applications,5
+15,Webtop,Webtop| wtpdb-po-p02b.cable.comcast.com|wtpdb-po-p02a.cable.comcast.com| Webtop| ngtwtd-po-p02.cable.comcast.com,Enterprise Applications,2
+16,EP- Fintech-EDM-Oracle Web Center Content - WCC,EP- Fintech-EDM-Oracle Web Center Content - WCC,Enterprise Applications,1
+17,SNP-NeTap,SNP-NeTap, Network Automation|Enterprise Applications|Network Automation| Enterprise Applications,3
+18,ESP Payment Service,ESP Payment Service,Enterprise Applications,4
+19,ESP PaymentDataMgmt Service,ESP PaymentDataMgmt Service,Enterprise Applications,1
+20,CIMA Login,CIMA Collection| CIMA Login| CIMA Control API|CIMA Login, Core Services|Core Services|Enterprise Applications| Enterprise Applications,4
+21,SRE,SRE, Big Data Service|Enterprise Applications,2
+22,CSG Care Express (eCare),CSG Care Express (eCare)| CSG Network| CSG ACP Voice,Enterprise Applications,4
+23,Publish Subscribe Platform,Publish Subscribe Platform,Enterprise Applications,3
+24,Retina Reporting Service,Retina Reporting Service|add77b61db72df40eaa85a35dc9619f2| fdwapp-wc-a2p.sys.comcast.net| EP-Fintech-FDW-Analytics| fdwapp-wc-a1p.sys.comcast.net| Retina Reporting Service| 7dd77b61db72df40eaa85a35dc9619f8,Enterprise Applications,5
+25,BoB-Eventing,BoB-Eventing,Enterprise Applications,3
+26,Recurring Payment,Recurring Payment,Enterprise Applications,3
+27,sw91b-d.potomac.co.ndcwest.comcast.net,sw91b-d.potomac.co.ndcwest.comcast.net| (CSP) Commercial Integration Services| Data Centers T2E| Webtop| Blue Planet Operations Manager,Data Center - Network Infrastructure| Enterprise Applications| Data Center - Network Infrastructure,2
+28,CSG ACPx/BCE,CSG Network| CSG ACPx/BCE|CSG ACPx/BCE,Enterprise Applications,2
+29,CSG ACSR, CSG ACSR|CSG ACPx/BCE| CSG ACPx/BCE|CSG ACSR,Enterprise Applications,3
+30,CSG FSM,CSG Network| CSG FSM|CSG FSM| WFA-Apps| CSG Network| CSG SLBOS,Enterprise Applications,3
+31,EP-Fintech-SES-HostLookup,EP-Fintech-SES-HostLookup,Enterprise Applications,4
+33,EP-Fintech-CIFA-INV,EP-Fintech-CIFA-AP|EP-Fintech-CIFA-INV| EP-Fintech-CIFA-INV,Enterprise Applications,3
+34,EP-Fintech-CIFA-PA,EP-Fintech-CIFA-PA,Enterprise Applications,5
+35,SNP-Discovery,SNP-Discovery, Network Automation|Enterprise Applications|Network Automation| Enterprise Applications,5
+36,TEST,fb3a6394dbcd2b00e1de5898dc961911, Data Center - Access Network Infrastructure| Voice| Legacy Devices| Video| Broadband|Data Center - Access Network Infrastructure|RDK| Enterprise Applications,5
+37,bvetc-ch2-04.sys.comcast.net, IMS Mobility|bvetc-ch2-04.sys.comcast.net|IMS Mobility| bvetc-ch2-04.sys.comcast.net,Enterprise Applications,4
+38,Xfinity.com,Xfinity.com,Enterprise Applications,2
+39,CRPL - Device Provisioning, CRPL - Account Provisioning|CRPL - Device Provisioning| CRPL - CETProxy WebService|CRPL - Account Provisioning| CRPL - Device Provisioning,Enterprise Applications| X1 Platform ,3
+40,XSP Account Management Service,XSP Account Management Service,Enterprise Applications,4
+41,EP-Fintech-CIFA-AP,EP-Fintech-CIFA-AP,Enterprise Applications,1
+42,EP-Fintech-CIFA-CET,EP-Fintech-CIFA-CET,Enterprise Applications,5
+43,EP-Fintech-CIFA-GL,EP-Fintech-CIFA-GL,Enterprise Applications,5
+44,Century OEOM,Century OEOM,Enterprise Applications,4
+45,Tenant Voiceprovisioning Service, Tenant Voiceprovisioning Service|Voice Syndication - Resi (Cox), Voice|Voice Syndication - Resi (Cox)| Video Syndication (Cox)| Voice Syndication| Enterprise Applications,2
+46,CRPL - IpGateway Provisioning, CRPL - Account Provisioning|CRPL - IpGateway Provisioning|CRPL - Account Provisioning| CRPL - IpGateway Provisioning,Enterprise Applications,3
+47,SMART,SMART,Enterprise Applications,2
+48,Contingent, Contingent|Contingent,Enterprise Applications,4
+49,Workbench,Workbench,Enterprise Applications,1
+50,CSG Network,CSG Interactive Messaging (IM)| CSG Vantage|CSG Network|CSG Care Express (eCare)| CSG FSM|CSG ENI| CSG SLBOS|CSG ACPx/BCE|CSG SLBOS| CSG Care Express (eCare)| CSG ACP Voice| CSG Interactive Messaging (IM)|CSG ACP Voice|CSG Vantage| CSG ACPx/BCE|CSG FSM| CSG CCS (Mainframe)| CSG CAP (CSG Provisioning Interface)| CSG Network|CSG CAP (CSG Provisioning Interface)|CSG ACSR| CSG ACSR,Enterprise Applications,4
+51,EP-Fintech-CIFA-PO,EP-Fintech-CIFA-PO,Enterprise Applications,2
+52,EP-Fintech-SES- Nestor Core,EP-Fintech-SES- Nestor Core,Enterprise Applications,1
+53,CODS,CODS,Enterprise Applications,1
+54,EP-WS-ComcastNow - Search,EP-WS-ComcastNow - Search,Enterprise Applications,5
+55,CSG CCS (Mainframe),CSG SLBOS|CSG CCS (Mainframe)| CSG ACP Voice|CSG FSM| CSG CCS (Mainframe)|CSG ACP Voice,Enterprise Applications,5
+56,EP-WS-ComcastNow - Intranet,EP-WS-ComcastNow - Intranet,Enterprise Applications,1
+57,CSG IPL,CSG IPL| PHT,Enterprise Applications| Xfi,2
+58,CSG SLBOS, CSG FSM|CSG SLBOS| CSG ACP Voice| CSG CCS (Mainframe)| CSG ACSR,Enterprise Applications,4
+59,OLTdb,OLTdb,Enterprise Applications,4
+60,Ilex, Ilex|Pivot|Ilex,Enterprise Applications| Enterprise Applications,1
+61,CLIPS OSS,CLIPS OSS,Enterprise Applications,1
+62,(CSP) Commercial Integration Services, (CSP) Commercial Integration Services|Elastic Search|(CSP) Commercial Integration Services,Enterprise Applications,4
+63,CB Offer Playbook,CB Offer Playbook,Enterprise Applications,4
+64,CSG CAP (CSG Provisioning Interface), CSG FSM| CSG ACPx/BCE| CSG Care Express (eCare)| CSG CAP (CSG Provisioning Interface)|CSG CAP (CSG Provisioning Interface)|CSG ACSR| CSG ACSR,Enterprise Applications,3
+65,UnifiedNotes-RestService,UnifiedNotes-RestService,Enterprise Applications,4
+66,CSG Technet,CSG Technet,Enterprise Applications,2
+67,Singleview,Singleview, EA:BSD:Business Services|e595d7bddbf613004b1a5623dc9619d9|Enterprise Applications| Enterprise Applications,3
+68,CSG Vantage,CSG Vantage| CSG Network| CSG Vantage|CSG Network,Enterprise Applications,2
+69,CSG ACP Voice, billing-service| CSG ACP Voice| CSG SLBOS|CSG ACP Voice|XCOS - SCMS| Xfinity.com| CSG Vantage,Enterprise Applications,5
+70,C.O.R.E Tool,C.O.R.E Tool,Enterprise Applications,5
+71,SNP-NetAdmin,SNP-NetAdmin, Network Automation|Enterprise Applications,2
+72,CyberSource Corporation - TPE0001695,CyberSource Corporation - TPE0001695,Enterprise Applications,4
+73,Salesforce.com (SFDC),Salesforce.com (SFDC),Enterprise Applications,4
+74,SNP-Pipeline,SNP-Pipeline, Network Automation|Enterprise Applications|Network Automation| Enterprise Applications,2
+75,SHAW,6a676390db8d2b00e1de5898dc961983, Data Center - Access Network Infrastructure|Enterprise Applications,2
+76,BSD Ops,BSD Ops,Enterprise Applications,5
+77,Blue Planet Operations Manager,Blue Planet Operations Manager,Enterprise Applications,5
+78,Equifax,Equifax,Enterprise Applications,1
+79,coreapp-po-a1p.sys.comcast.net,coreapp-po-a1p.sys.comcast.net| C.O.R.E Tool,Enterprise Applications,4
+80,SiS (SiteScope),SiS (SiteScope),Enterprise Applications,3
+81,BSM (Business Service Management),BSM (Business Service Management),Enterprise Applications,2
+82,CSG Interactive Messaging (IM), CSG ENI|CSG Interactive Messaging (IM)| CSG SLBOS,Enterprise Applications,4
+83,xfm-dashboard,xfm-dashboard,Enterprise Applications,4
+84,EP-Fintech-SES-PPV VOD Revenue Generation - core,EP-Fintech-SES-PPV VOD Revenue Generation - core,Enterprise Applications,4
+85,DBA - Oracle Administration,DBA - Oracle Administration,Enterprise Applications,4
+86,EP-Fintech-SES- Nestor Budget,EP-Fintech-SES- Nestor Budget,Enterprise Applications,4
+87,BriteBill Operations,BriteBill Operations,Enterprise Applications,3
+88,Sigma,Sigma,Enterprise Applications,5
+89,EP-WS-LINCS,EP-WS-LINCS,Enterprise Applications,4
+90,maaopp001.maynard.ma.boston.comcast.net,ed76e486db4def444b1a5623dc9619b5,Internet|Voice| Data Center - Access Network Infrastructure| Internet| Voice| Legacy Devices| Video| RDK| VOD| Broadband| X1 Platform | Enterprise Applications,5
+91,dx Portal Apps,dx Portal Apps, Big Data Service|Big Data - Data Enterprise,1
+92,penapp-wc-a1p.sys.comcast.net, penapp-wc-a1p.sys.comcast.net| Pentaho BSD|penapp-wc-a1p.sys.comcast.net| fbac84acdb131b404b1a5623dc9619a9| 1e0cc8e8db131b404b1a5623dc961983|mede-ch2-a1p.sys.comcast.net|Pentaho BSD,Enterprise Applications,2
+93,laeapp-wc-01p.sys.comcast.net, 5d1a483adb53df40b7e4ffd31d9619c2| ede853f9db3a13004b1a5623dc96190f| laeapp-wc-01p.sys.comcast.net| Lavastorm Business Services|Lavastorm Business Services| d3e893f9db3a13004b1a5623dc961911| 15e813f9db3a13004b1a5623dc9619f1| Eproxybs|d3e893f9db3a13004b1a5623dc96190f|laeapp-wc-01p.sys.comcast.net| Epsilon,Enterprise Applications,2
+94,EP- Fintech-EDM-Oracle IPM,EP- Fintech-EDM-Oracle IPM,Enterprise Applications,2
+95,CE-Convoy-CF-API-Gateway, CE-Convoy-CF-API-Gateway| DAS| convoy| CSP|Customer Experience Platform| Maestro Oracle KB|Einstein360,Enterprise Applications| Customer - Customer Engagement| Care,5
+96,CRPL - GrandSlam Proxy WebService, CRPL - Account Provisioning|CRPL - GrandSlam Proxy WebService,Enterprise Applications,2
+97,Design Review Worksheet (DRW),Design Review Worksheet (DRW),Enterprise Applications,5
+98,CRPL - CETProxy WebService, CRPL - Account Provisioning| CRPL - Device Provisioning| CRPL - GrandSlam Proxy WebService|CRPL - CETProxy WebService,Enterprise Applications,2
+99,EP-EPCS-Github Enterprise,EP-EPCS-Github Enterprise,Enterprise Applications,4
+100,SNP-Foresight,SNP-Foresight,Network Automation| Enterprise Applications,5
+101,Convoy Orchestration Platform, Convoy Orchestration Platform| Customer Service Platform| Unified Notes Service| MSP| Retail360| Einstein360| Modesto - Frontend-Care|Modesto - Frontend-Retail,Enterprise Applications,4
+102,CPQ - Configure Price Quote,CPQ - Configure Price Quote,Enterprise Applications,4
+103,Maestro Oracle KB, Maestro Oracle KB| Maestro Oracle KB - Cafe|CAFE|Maestro Oracle KB,Enterprise Applications,4
+104,SNP-Collectors,SNP-Collectors, Network Automation|Enterprise Applications,5
+105,CRPL - Account Provisioning,CRPL - Account Provisioning,Enterprise Applications,1
+106,Einstein360, Maestro Oracle KB|Einstein360,Enterprise Applications,3
+107,Sqdproxybs,Sqdproxybs,Enterprise Applications,5
+108,Voicemail NextGen Service,Voicemail NextGen Service,Enterprise Applications,4
+109,KEB-Athena,KEB-Athena,Enterprise Applications,3
+110,Timeline,Timeline,Enterprise Applications,2
+111,gabxpp001.d9chamblee.ga.atlanta.comcast.net,gabxpp001|883d125cdb907b4480c8e05c8a96199e, Data Center - Access Network Infrastructure| Internet| Voice| Legacy Devices| Video| RDK|Enterprise Applications|Data Center - Access Network Infrastructure| Enterprise Applications,5
+112,CSG Event Platform (CEP), eepels-as-b1p.sys.comcast.net|CSG Event Platform (CEP),Enterprise Applications,2
+113,TVX - Firewalls,TVX - Firewalls,Enterprise Applications,1
+114,TTU,TTU,Enterprise Applications,3
+115,EP- Fintech-EDM-Kofax,EP- Fintech-EDM-Kofax,Enterprise Applications,5
+116,Scout Monitor GUI, Scout Monitor GUI|Scout Core Xtreme| Scout Legacy Poller| Video Scout| Scout Poller ReArch|Scout Monitor GUI,Enterprise Applications,3
+117,Singleview Reporting Services,Singleview Reporting Services,Enterprise Applications,3
+118,penapp-po-b1p.sys.comcast.net,CODS| penapp-po-b1p.sys.comcast.net|penapp-po-b1p.sys.comcast.net| CODS,Enterprise Applications,1
+119,penapp-po-a1p.sys.comcast.net,Pentaho BSD| penapp-po-a1p.sys.comcast.net| Pentaho BSD|penapp-po-a1p.sys.comcast.net,Enterprise Applications,1
+120,eWorkflow (Comcast eForms),eWorkflow (Comcast eForms),Enterprise Applications,3
+121,penapp-wc-b1p.sys.comcast.net,CODS| penapp-wc-b1p.sys.comcast.net|penapp-wc-b1p.sys.comcast.net| CODS,Enterprise Applications,1
+122,Scout Poller ReArch,Scout Poller ReArch,Enterprise Applications,2
+123,txpxpp001.tidwell.tx.houston.comcast.net,d866842d1b843bc045870e966e4bcb5b,Data Center - Access Network Infrastructure| Enterprise Applications,4
+124,cmtadpt-cmc-w02.sys.comcast.net, cmtadpt-cmc-w02.sys.comcast.net|Design Review Worksheet (DRW)|cmtadpt-cmc-w02.sys.comcast.net| Design Review Worksheet (DRW),Enterprise Applications,2
+125,XCOS - SCMS,XCOS - SCMS| Xfinity.com,Enterprise Applications| Enterprise Applications,3
+126,WUG - WhatsUp Gold, meswg2-eg-ap01.cable.comcast.com| wc-comcast-sql.cable.comcast.com| meswg1-eg-ap01.cable.comcast.com| wc-wug-db3.cable.comcast.com| WUG - WhatsUp Gold| wc-comcast-app.cable.comcast.com|meswg1-eg-ap01.cable.comcast.com| wc-br-wug-db.cable.comcast.com| wc-wug7.cable.comcast.com|WUG - WhatsUp Gold| meswg3-eg-ap01.cable.comcast.com|meswg3-eg-pp01.cable.comcast.com,Enterprise Applications,4
+127,bsdadmin-po-1p.sys.comcast.net,257c086cdb131b404b1a5623dc96198f| BSD Ops| 257c086cdb131b404b1a5623dc96198f|BSD Ops,Enterprise Applications,1
+128,EP-Fintech-TRECS,EP-Fintech-TRECS,Enterprise Applications,2
+129,cramgenesis-po-01p.sys.comcast.net, CLIPS OSS|cramgenesis-po-01p.sys.comcast.net,Enterprise Applications,4
+130,Orion Middleware,Orion Middleware,Enterprise Applications,2
+131,XCOS - CI/CD,XCOS - CI/CD,Enterprise Applications,1
+132,EP-WS-HR Data Store,EP-WS-HR Data Store,Enterprise Applications,3
+133,EP-WS-Unily Sales Communication Portal,EP-WS-Unily Sales Communication Portal,Enterprise Applications,4
+134,ContactService V4,ContactService V4,Enterprise Applications,5
+135,aiQ,aiQ,Enterprise Applications,2
+136,clipapp-po-07p.sys.comcast.net, CLIPS OSS|clipapp-po-07p.sys.comcast.net|CLIPS OSS| clipapp-po-07p.sys.comcast.net,Enterprise Applications,4
+137,Century Access Center(CAC),Century Access Center(CAC),Enterprise Applications,3
+138,CAFE,CAFE|001eab98db016b00e1de5898dc96193d,Video| Data Center - Access Network Infrastructure| Voice| Legacy Devices| RDK| Broadband|Enterprise Applications| Enterprise Applications,4
+139,Business Reporting Services,Business Reporting Services,Enterprise Applications,3
+140,GIS Mapping,GIS Mapping,Enterprise Applications,3
+141,Comcast Indirect Commissions System (CICS),Comcast Indirect Commissions System (CICS),Enterprise Applications,4
+142,Vertex - EMS,Vertex - EMS,Enterprise Applications,2
+143,DAS,DAS,Enterprise Applications,3
+144,Xythos,Xythos,Enterprise Applications,5
+145,eBusiness Data Services,eBusiness Data Services,Enterprise Applications,4
+146,ngtwtweb-po-a1p.sys.comcast.net,Webtop| Webtop| 1b1a13fddb3a13004b1a5623dc9619a2| b3275b35db3a13004b1a5623dc9619bb|b3275b35db3a13004b1a5623dc9619bb,Enterprise Applications,1
+147,AppD BSD,AppD BSD,Enterprise Applications,5
+148,BSD-RPA-Bot,BSD-RPA-Bot,Enterprise Applications,5
+149,BSD DIGITAL - SITECORE-7,BSD DIGITAL - SITECORE-7,Enterprise Applications,4
+150,CIFA R12 - CORP,CIFA R12 - CORP,Enterprise Applications,5
+151,SWIFT,SWIFT,Enterprise Applications,2
+152,XSP - Enterprise Database,XSP - Enterprise Database,Enterprise Applications,3
+153,EP-Fintech-CIFA-FA,EP-Fintech-CIFA-FA,Enterprise Applications,1
+154,Market Design CDV,Market Design CDV,Enterprise Applications,5
+155,Maestro Oracle KB - Cafe,Maestro Oracle KB - Cafe,Enterprise Applications,3
+156,EPC - Database,EPC - Database,Enterprise Applications,1
+157,tcswin-qc-01s.cable.comcast.com, CLIPS OSS|tcswin-qc-01s.cable.comcast.com| tcswin-qc-01s.cable.comcast.com|CLIPS OSS,Enterprise Applications,3
+158,CCOM,CCOM,Enterprise Applications,3
+159,ctilxdb-as-p01a.cable.comcast.com, Ilex| ctilxdb-as-p01a.cable.comcast.com|ctilxdb-as-p01a.cable.comcast.com|Ilex,Enterprise Applications,4
+160,eprxybs-po-a1p.sys.comcast.net,Eproxybs| d3e893f9db3a13004b1a5623dc96190f| Eproxybs|d3e893f9db3a13004b1a5623dc96190f,Enterprise Applications,3
+161,sfbld-po-a1p.cable.comcast.com,sfbld-po-a1p.cable.comcast.com| Salesforce.com (SFDC)| sfbld-po-a1p.cable.comcast.com|Salesforce.com (SFDC),Enterprise Applications,4
+162,BSD DIGITAL - MyAccount,BSD DIGITAL - MyAccount,Enterprise Applications,2
+163,HP Network Automation,HP Network Automation,Enterprise Applications,4
+164,EEA SQM,EEA SQM,Enterprise Applications,1
+165,XSP CPE Inventory Service,XSP CPE Inventory Service,Enterprise Applications,5
+166,CXIP-Profanity Validate Service(PVS),CXIP-Profanity Validate Service(PVS),Core Services| Enterprise Applications,3
+167,Orion ODS,Orion ODS,Enterprise Applications,1
+168,Customer Experience Platform,Customer Experience Platform,Enterprise Applications,3
+169,Unified Notes Service,Unified Notes Service,Enterprise Applications,5
+170,MM-CRM,MM-CRM,Enterprise Applications,5
+171,billing-service,billing-service,Enterprise Applications,5
+172,Monitoring,Monitoring,Enterprise Applications,4
+173,XCOS - Logging,XCOS - Logging,Enterprise Applications,5
+174,ESPNextGen-DirectoryServices(TeamA/TDS WebServ),ESPNextGen-DirectoryServices(TeamA/TDS WebServ), Core Services|Core Services|Enterprise Applications| Enterprise Applications,4
+175,XWIFI WAG Nokia,XWIFI WAG Nokia, XWIFI|Broadband| Enterprise Applications,1
+176,Scout Core Xtreme, Scout Monitor GUI|Scout Core Xtreme,Enterprise Applications,2
+177,Pivot, Ilex|Pivot,Enterprise Applications,3
+178,dsc01-om01.northlake.il.ndcchgo.comcast.net, IMS BSP| opsnfm1-ch2-a01.sys.comcast.net|dsc01-om01.northlake.il.ndcchgo.comcast.net, Voice|Voice Syndication - Resi (Cox)| Voice core| Voice Syndication| Enterprise Applications,3
+179,EmailService - V4,EmailService - V4,Enterprise Applications,3
+180,clipapp-ch2-01p.sys.comcast.net, CLIPS OSS|clipapp-ch2-01p.sys.comcast.net| clipapp-ch2-01p.sys.comcast.net|CLIPS OSS,Enterprise Applications,5
+181,cafemon-wc-1p.sys.comcast.net,cafe Monitoring| cafemon-wc-1p.sys.comcast.net,Enterprise Applications,2
+182,OnlineVideoService - V4,OnlineVideoService - V4,Enterprise Applications,4
+183,ProblemResolutionService - V4,ProblemResolutionService - V4,Enterprise Applications,3
+184,XCOS BriteBill,XCOS BriteBill,Enterprise Applications,1
+185,BVE Portal,BVE Portal,Enterprise Applications,3
+186,MELD - Big Data,MELD - Big Data,Enterprise Applications,2
+187,CIFA - INV,CIFA - INV,Enterprise Applications,4
+188,Billing Service - Tactical Coherence Caching,Billing Service - Tactical Coherence Caching,Enterprise Applications,3
+189,Salesforce - TPE0006215,Salesforce - TPE0006215,Enterprise Applications,1
+190,NetworkService - V4,NetworkService - V4| NetworkService - V4|billing-service,Enterprise Applications,4
+191,CXIP-Enterprise Service Directory (ESD),CXIP-Enterprise Service Directory (ESD),Enterprise Applications,2
+192,SAP - Comcast SAP HCM,SAP - Comcast SAP HCM,Enterprise Applications,4
+193,Scout Legacy Core, Scout Legacy Core|Scout Poller ReArch,Enterprise Applications,4
+194,pevnet-po-01p.cable.comcast.com, pevnet-po-01p.cable.comcast.com|Market Design CDV,Enterprise Applications,1
+195,XSP-Core-RDM-DBaaS,XSP-Core-RDM-DBaaS,Enterprise Applications,5
+196,EPC - Pentaho Apps,EPC - Pentaho Apps,Enterprise Applications,1
+197,gabxpp001,gabxpp001,Data Center - Access Network Infrastructure| Enterprise Applications,1
+198,pci-ttu-prod-01.cnsmsp.local, pci-ttu-prod-01.cnsmsp.local|TTU,Enterprise Applications,2
+199,flqppp001,flqppp001,Data Center - Access Network Infrastructure| Enterprise Applications,1
+200,Equipment Swaps Campaign Manager,Equipment Swaps Campaign Manager,Enterprise Applications,4
+201,fledpp001.pompanobeach.fl.pompano.comcast.net,520d49c91b47b7c48998620f6e4bcba7, Data Center - Access Network Infrastructure|Enterprise Applications|Data Center - Access Network Infrastructure| Enterprise Applications,5
+202,Provisioning DNS,Provisioning DNS,Enterprise Applications| Core Network Services,5
+203,SIMON,SIMON| SIMON,Enterprise Applications,1
+204,DTAStateService V4,DTAStateService V4,Enterprise Applications,5
+205,BSD-BluePrism-Bot,BSD-BluePrism-Bot,Enterprise Applications,5
+206,XWIFI AP Controller,XWIFI AP Controller, XWIFI|Broadband| Enterprise Applications,1
+207,ChannelService - V4,ChannelService - V4,Enterprise Applications,5
+208,SAP - Payroll Module,SAP - Payroll Module,Enterprise Applications,1
+209,MM-ODO,MM-ODO,Enterprise Applications,1
+210,Abraxas,Abraxas,Enterprise Applications,5
+211,MES-CRM,MES-CRM,Enterprise Applications,3
+212,EPC - Wiz UI,EPC - Wiz UI,Enterprise Applications,2
+213,XSP - CADM DB,XSP - CADM DB,Enterprise Applications,1
+214,Numeritrack,Numeritrack,Enterprise Applications,1
+215,Design Configuration Platform (DCP),Design Configuration Platform (DCP),Enterprise Applications,5
+216,Lavastorm Business Services,Lavastorm Business Services,Enterprise Applications,1
+217,XWIFI AP Portal,XWIFI AP Portal, Broadband| Enterprise Applications|XWIFI,5
+218,BSD DIGITAL - SITECORE-8,BSD DIGITAL - SITECORE-8,Enterprise Applications,3
+219,National Watchtower,National Watchtower,Enterprise Applications,2
+220,MES-SQO,MES-SQO,Enterprise Applications,1
+221,XCOS - PPE,XCOS - PPE,Enterprise Applications,1
+222,SAP - Business Intelligence (BI),SAP - Business Intelligence (BI),Enterprise Applications,5
+223,CLIPS - Helix,CLIPS - Helix,Enterprise Applications,1
+224,ncst-ent-pdhcp.newcastlerdc.de.panjde.comcast.net, Enterprise DHCP|ncst-ent-pdhcp.newcastlerdc.de.panjde.comcast.net,Enterprise Applications| Core Network Services,5
+225,SecurityProvisioningService - V4, SecurityProvisioningService - V4|Billing Service - Tactical Coherence Caching,Enterprise Applications,2
+226,NWT-EXR,NWT-EXR,Enterprise Applications,2
+227,Adobe Campaign Classic,Adobe Campaign Classic,Enterprise Applications,4
+228,CIMA Identity Proofing,CIMA Identity Proofing,Core Services| Enterprise Applications,1
+229,wbadm-wc-a0p.cable.comcast.com, BSD Ops|wbadm-wc-a0p.cable.comcast.com,Enterprise Applications,2
+230,Versa Director,CLIPS - Helix| Versa Director,Enterprise Applications| Enterprise Applications,4
+231,MES-Orion-Helix,MES-Orion-Helix,Enterprise Applications,3
+232,Security - ServiceNow,Security - ServiceNow, Platform Monitoring|Enterprise Applications,5
+233,CXP-CF-Customer Service,CXP-CF-Customer Service,Customer - Customer Engagement| Enterprise Applications| Care,2
+234,PMG Service Catalog,PMG Service Catalog,a8f93d08db6e9b004b1a5623dc961989| a8f93d08db6e9b004b1a5623dc961989| EA:Services:General|EA:Services:General| Enterprise Applications,3
+235,MM-SOM,MM-SOM,Enterprise Applications,4
+236,espetldb-wc-b3p.sys.comcast.net,OrderSalesCommission-Turnstiles| espetldb-wc-b3p.sys.comcast.net,Enterprise Applications,4
+237,MM-SQO,MM-SQO,Enterprise Applications,1
+238,Xinventory,Xinventory,Enterprise Applications,3
+239,MES-ODO,MES-ODO,Enterprise Applications,4
+240,SpectraCM,SpectraCM,Enterprise Applications,5
+241,omwdb-as-a1p.sys.comcast.net, Orion Middleware|omwdb-as-a1p.sys.comcast.net| Design Configuration Platform (DCP),Enterprise Applications,1
+242,MES-AMIL,MES-AMIL,Enterprise Applications,5
+243,EPC - EPC Batch,EPC - EPC Batch,Enterprise Applications,2
+244,wbopsdb-wc-a4p.sys.comcast.net, 8efbdb75db7a13004b1a5623dc9619e1|wbopsdb-wc-a4p.sys.comcast.net| wbrepdb-ch2-a3p.sys.comcast.net| 1d4ad7fddb3a13004b1a5623dc961973| a69b9ff1db7a13004b1a5623dc9619bd| 16fbdb75db7a13004b1a5623dc9619eb| wbbpmdb-ch2-a1p.sys.comcast.net| wbopsdb-wc-a3p.sys.comcast.net| wbopsdb-wc-a1p.sys.comcast.net| 571a13fddb3a13004b1a5623dc9619e6| 5a6b93f1db7a13004b1a5623dc961982| wbrepdb-ch2-a1p.sys.comcast.net| wbopsdb-ch2-a2p.sys.comcast.net| wbopsdb-wc-a2p.sys.comcast.net| wbopsdb-wc-a6p.sys.comcast.net|wbopsdb-ch2-a1p.sys.comcast.net| wbopsdb-ch2-a3p.sys.comcast.net| 2d4ad7fddb3a13004b1a5623dc961975| 0efbdb75db7a13004b1a5623dc9619e3| wbopsdb-wc-a4p.sys.comcast.net| 8afbdb75db7a13004b1a5623dc9619e5| d71a13fddb3a13004b1a5623dc9619e4| 903a17fddb3a13004b1a5623dc9619a7| wbopsdb-wc-a5p.sys.comcast.net| wbrepdb-ch2-a2p.sys.comcast.net| 669b9ff1db7a13004b1a5623dc9619bf| 86fbdb75db7a13004b1a5623dc9619e9| 1efb1f75db7a13004b1a5623dc961937| wbbpmdb-ch2-a2p.sys.comcast.net| 203a17fddb3a13004b1a5623dc9619a9,Enterprise Applications,2
+245,OpenStack Region CH2-F,OpenStack Region CH2-F,Enterprise Applications| Cloud Hosting,3
+246,MES-Infra,MES-Infra,Core Network Services|Enterprise Applications| Core Network Services| Enterprise Applications,1
+247,rpabot-as-1p.cable.comcast.com, SAP - Comcast SAP HCM|cbe6b92ddbbfeb00241f402339961992,Enterprise Applications,2
+248,AppDynamics Proxy,AppDynamics Proxy,Enterprise Applications,5
+249,EP-WS-ZETA - Career Site,EP-WS-ZETA - Career Site,Enterprise Applications,1
+250,AmDD,AmDD,Enterprise Applications,3
+251,DVC Portal,DVC Portal,Enterprise Applications,4
+252,MM-Infra,MM-Infra,Enterprise Applications| Core Network Services,3
