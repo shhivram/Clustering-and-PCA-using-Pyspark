@@ -1,0 +1,33 @@
+application_id,Applications,Affected_Applications,Impacted_Services,criticality
+0,Hyperion Financial Management (HFM),Hyperion Financial Management (HFM),Enterprise Applications,5
+1,XOCV - University,XOCV - University,Enterprise Applications,4
+2,Hyperion Essbase,Hyperion Essbase,Enterprise Applications,3
+3,SNP-Device Integration,SNP-Device Integration, Network Automation|Enterprise Applications|Network Automation| Enterprise Applications,1
+4,StreamTV IDS, (ComPS) Commercial Provisioning Services|StreamTV IDS,Enterprise Applications,2
+5,Tech360,Tech360,Enterprise Applications,5
+6,SNP-Legacy,SNP-Legacy, Network Automation|Enterprise Applications|Network Automation| Enterprise Applications,2
+7,RetailPOS,RetailPOS,Enterprise Applications,4
+8,SNP-Middleware, SNP-Middleware| SNP-Device Integration|SNP-Middleware|SNP-Device Integration, Network Automation|Enterprise Applications|Network Automation| Enterprise Applications,2
+9,EP-Fintech-FTA-NRSA - core,EP-Fintech-FTA-NRSA - core,Enterprise Applications,1
+10,Apex CLU (Prog Acctg) - Core,Apex CLU (Prog Acctg) - Core,Enterprise Applications,4
+11,Retail360, Retail360|Retail360|RetailPOS,Enterprise Applications,5
+12,(ComPS) Commercial Provisioning Services, basmanxs02m.manassascc.va.bad.comcast.net| basmanxs05m.manassascc.va.bad.comcast.net| baschips03m.area4.il.chicago.comcast.net| basatlxs03m.s3ndigital.ga.atlanta.comcast.net| basmanps04m.manassascc.va.bad.comcast.net| baschiws01m.area4.il.chicago.comcast.net| basmanxs09m.manassascc.va.bad.comcast.net| baschixs07m.area4.il.chicago.comcast.net| baschins01m.area4.il.chicago.comcast.net| (ComPS) Commercial Provisioning Services| basmanps03m.manassascc.va.bad.comcast.net|basbeaxs05m.beaverton.or.bverton.comcast.net| Commercial IMS| baschips01m.area4.il.chicago.comcast.net| basbeaxs04m.beaverton.or.bverton.comcast.net| basmanxs03m.manassascc.va.bad.comcast.net| basatlxs08m.s3ndigital.ga.atlanta.comcast.net| basmanxs10m.manassascc.va.bad.comcast.net|(ComPS) Commercial Provisioning Services| basmanxs08m.manassascc.va.bad.comcast.net, Commercial IMS|Enterprise Applications| Enterprise Applications|Voice,1
+13,ESP Payment Service V4, DAS|xCP - Contract Management Service| ESP Payment Service V4| XCOS - SCMS| Customer Experience Platform|MyAccount-Payments| MSP| Xfinity.com|ESP Payment Service V4| XOE BuyFlow, Customer - My Account|QAM Delivery| Care|Enterprise Applications| Enterprise Applications,2
+14,Splunk - Other Machines,Splunk - Other Machines,Enterprise Applications,5
+15,Webtop,Webtop| wtpdb-po-p02b.cable.comcast.com|wtpdb-po-p02a.cable.comcast.com| Webtop| ngtwtd-po-p02.cable.comcast.com,Enterprise Applications,2
+16,EP- Fintech-EDM-Oracle Web Center Content - WCC,EP- Fintech-EDM-Oracle Web Center Content - WCC,Enterprise Applications,1
+17,SNP-NeTap,SNP-NeTap, Network Automation|Enterprise Applications|Network Automation| Enterprise Applications,3
+18,ESP Payment Service,ESP Payment Service,Enterprise Applications,4
+19,ESP PaymentDataMgmt Service,ESP PaymentDataMgmt Service,Enterprise Applications,1
+20,CIMA Login,CIMA Collection| CIMA Login| CIMA Control API|CIMA Login, Core Services|Core Services|Enterprise Applications| Enterprise Applications,4
+21,SRE,SRE, Big Data Service|Enterprise Applications,2
+22,CSG Care Express (eCare),CSG Care Express (eCare)| CSG Network| CSG ACP Voice,Enterprise Applications,4
+23,Publish Subscribe Platform,Publish Subscribe Platform,Enterprise Applications,3
+24,Retina Reporting Service,Retina Reporting Service|add77b61db72df40eaa85a35dc9619f2| fdwapp-wc-a2p.sys.comcast.net| EP-Fintech-FDW-Analytics| fdwapp-wc-a1p.sys.comcast.net| Retina Reporting Service| 7dd77b61db72df40eaa85a35dc9619f8,Enterprise Applications,5
+25,BoB-Eventing,BoB-Eventing,Enterprise Applications,3
+26,Recurring Payment,Recurring Payment,Enterprise Applications,3
+27,sw91b-d.potomac.co.ndcwest.comcast.net,sw91b-d.potomac.co.ndcwest.comcast.net| (CSP) Commercial Integration Services| Data Centers T2E| Webtop| Blue Planet Operations Manager,Data Center - Network Infrastructure| Enterprise Applications| Data Center - Network Infrastructure,2
+28,CSG ACPx/BCE,CSG Network| CSG ACPx/BCE|CSG ACPx/BCE,Enterprise Applications,2
+29,CSG ACSR, CSG ACSR|CSG ACPx/BCE| CSG ACPx/BCE|CSG ACSR,Enterprise Applications,3
+30,CSG FSM,CSG Network| CSG FSM|CSG FSM| WFA-Apps| CSG Network| CSG SLBOS,Enterprise Applications,3
+31,EP-Fintech-SES-HostLookup,EP-Fintech-SES-HostLookup,Enterprise Applications,4
