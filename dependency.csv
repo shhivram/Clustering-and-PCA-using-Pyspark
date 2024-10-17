@@ -31,7 +31,6 @@ application_id,Applications,Affected_Applications,Impacted_Services,criticality
 29,CSG ACSR, CSG ACSR|CSG ACPx/BCE| CSG ACPx/BCE|CSG ACSR,Enterprise Applications,3
 30,CSG FSM,CSG Network| CSG FSM|CSG FSM| WFA-Apps| CSG Network| CSG SLBOS,Enterprise Applications,3
 31,EP-Fintech-SES-HostLookup,EP-Fintech-SES-HostLookup,Enterprise Applications,4
-32,,,,2
 33,EP-Fintech-CIFA-INV,EP-Fintech-CIFA-AP|EP-Fintech-CIFA-INV| EP-Fintech-CIFA-INV,Enterprise Applications,3
 34,EP-Fintech-CIFA-PA,EP-Fintech-CIFA-PA,Enterprise Applications,5
 35,SNP-Discovery,SNP-Discovery, Network Automation|Enterprise Applications|Network Automation| Enterprise Applications,5
