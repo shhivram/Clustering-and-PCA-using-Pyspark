@@ -1,4 +1,4 @@
-applicaiton_id,Applications,Affected Applicaitons,Implacted_Services,criticality
+application_id,Applications,Affected_Applications,Impacted_Services,criticality
 0,Hyperion Financial Management (HFM),Hyperion Financial Management (HFM),Enterprise Applications,5
 1,XOCV - University,XOCV - University,Enterprise Applications,4
 2,Hyperion Essbase,Hyperion Essbase,Enterprise Applications,3
